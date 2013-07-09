@@ -1,0 +1,51 @@
+#mainMenu,.calendar th{
+    background: #a4373a !important;
+}
+.menu:hover{
+    background: #912c2f;
+}
+.menuCurrent{
+    background: #c75659;
+}
+.curModuleLink,
+.subMenuItem:hover,
+.infoBox,
+.highlighted,
+.calendar td.selected,
+.monthyearselect th
+.tooltipsy,
+.button:hover,
+.headerText2:hover,
+.editFormLink:hover,
+input[type="submit"]:active,
+input[type="button"]:active,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.tab:hover,
+a.printReport:active,
+.tooltipsy{
+    background: #fcc2c4 !important;
+}
+.infoBox,
+.tooltipsy{
+    color: #912c2f;
+}
+a,
+.tInfo h1,
+#tLogo span{
+    color: #a4373a;
+}
+.tooltipsy,
+.button:hover,
+.headerText2:hover,
+.editFormLink:hover,
+input[type="submit"]:active,
+input[type="button"]:active,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.tab:hover,
+a.printReport:active,
+input:focus,
+textarea:focus{
+    border: 1px solid #912c2f !important;
+}
